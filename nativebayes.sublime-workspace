@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Document",
+				"DocumentClass	class"
+			],
+			[
+				"Do",
+				"DocumentClass	module"
+			],
+			[
+				"N",
+				"NaiveBayes	module"
+			],
+			[
+				"B",
+				"BagOfWords	module"
+			],
+			[
+				"tes",
+				"testDirectory"
+			],
+			[
+				"p",
+				"path	module"
+			],
+			[
+				"P",
+				"Pool"
+			],
+			[
+				"e_s",
+				"e_serie"
+			],
+			[
+				"A",
+				"A_Plus_Diff"
+			],
+			[
+				"C",
+				"CosinunsAnalyzer"
+			],
+			[
+				"query",
+				"queryLength	statement"
+			],
+			[
+				"qu",
+				"queryLength	statement"
+			],
+			[
+				"hash",
+				"hashes"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"it",
+				"items	function"
+			],
+			[
+				"__i",
+				"__iter__	function"
+			],
+			[
+				"an",
+				"analyzer	statement"
+			],
+			[
+				"index",
+				"indexer	statement"
+			],
+			[
+				"Cos",
+				"CosinunsAnalyzer	import"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pro",
+				"processhtml"
+			],
+			[
+				"pr",
+				"processhtml"
+			],
+			[
+				"html",
+				"htmlbuild"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 470.0,
+		"last_filter": "sys",
+		"selected_items":
+		[
+			[
+				"sys",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"sysm",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/doc"
+	],
+	"file_history":
+	[
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/NaiveBayes/BagOfWords.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/NaiveBayes/Pool.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/main.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/NaiveBayes/__init__.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/NaiveBayes/DocumentClass.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/NaiveBayes/Document.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/doc/WebNaiveBayes.pdf",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/Naive-Bayes/BagOfWords.py",
+		"/home/fxdapokalypse/Google Drive/Uni/Semester 4/03_M3/Uebung9/uebung9.m",
+		"/home/fxdapokalypse/Documents/Uni/05_VS/VS/VS_Demos/src/WebSocket.js",
+		"/run/user/1000/gvfs/ftp:host=s0544361.bplaced.net/live access/index.php",
+		"/run/user/1000/gvfs/sftp:host=uranus.f4.htw-berlin.de/home/05/44361/public_html/Aufgabe4/config/config.php",
+		"/home/fxdapokalypse/Google Drive/Uni/Semester 4/03_M3/Uebung5/uebung5.m",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/model/page.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/pagerank/page_rank.py",
+		"/home/fxdapokalypse/.config/sublime-text-3/Packages/User/PHP.sublime-build",
+		"/home/fxdapokalypse/Downloads/PHP/index.php",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/crawler.sublime-project",
+		"/home/fxdapokalypse/Dropbox/Projekte/Autocomplete.php",
+		"/home/fxdapokalypse/Dropbox/Projekte/JobRouter/sam/SAM.php",
+		"/home/fxdapokalypse/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/fxdapokalypse/.config/sublime-text-3/Packages/User/php.sublime-build",
+		"/home/fxdapokalypse/Google Drive/Uni/Semester 4/03_M3/Uebung7/uebung7.m",
+		"/home/fxdapokalypse/Google Drive/Uni/Semester 4/03_M3/Uebung6/uebung6.m",
+		"/home/fxdapokalypse/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/docs/results/index.txt",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/docs/results/doc_lengthes.txt",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/model/hits.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/crawler/CrawlerExample.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/analyzer/cosinus.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/parser/html.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/indexer/lexer.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/docs/results/page_ranks.txt",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/docs/results/link_structure.txt",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/.gitignore",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/.yo-rc.json",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/Gruntfile.js",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/app/styles/main.css",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/app/index.html",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/app/index.html.tpl",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/app/scripts/main.js",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/app/templates/header.html.tpl",
+		"/home/fxdapokalypse/Documents/Uni/04_Web/Aufgabe2/model/heroes.json",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/docs/auxiliary_docs/cms1_UML.vpp",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/docs/results/cosine_scores.txt",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/main.py",
+		"/home/fxdapokalypse/Documents/Uni/01_CMS/cms1/model/index.py",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/templates/header.html",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/Gruntfile.js",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/index.html.tpl",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/styles/main.css",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/index.html",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/templates/footer.html",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/robots.txt",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/app/index.html_test",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/bla.html",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/package.json",
+		"/home/fxdapokalypse/Documents/04_Web/Aufgabe2/package.json~",
+		"/home/fxdapokalypse/Documents/06_DevSocialApps/NowDiscover Gruppe/NetBeansProjects/Shark2/categories.csv",
+		"/home/fxdapokalypse/Documents/06_DevSocialApps/NowDiscover Gruppe/NetBeansProjects/Shark2/customer.csv",
+		"/home/fxdapokalypse/.dotfiles/init/git.sh",
+		"/home/fxdapokalypse/.dotfiles/init/vim.sh",
+		"/home/fxdapokalypse/.dotfiles/init/octave.sh",
+		"/home/fxdapokalypse/.dotfiles/init/sublime.sh",
+		"/home/fxdapokalypse/.dotfiles/init/develop.sh",
+		"/home/fxdapokalypse/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/fxdapokalypse/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"os.",
+			"p",
+			"DocumentClasses",
+			"DClasses",
+			"retval",
+			"queryLength",
+			"wtq",
+			"min",
+			"info",
+			")",
+			"has_info_page",
+			"'],\n",
+			"test",
+			"jshint",
+			"newer",
+			"Wir",
+			"wire",
+			"htmlp",
+			"wirede",
+			"wiredep",
+			"build",
+			"wiredep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crawler.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"crawler.sublime-project"
+			],
+			[
+				"page",
+				"model/page.py"
+			],
+			[
+				"ex",
+				"crawler/CrawlerExample.py"
+			],
+			[
+				"co",
+				"analyzer/cosinus.py"
+			],
+			[
+				"h",
+				"model/hits.py"
+			],
+			[
+				"hi",
+				"model/hits.py"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"content.",
+				"app/templates/content.html.tpl"
+			],
+			[
+				"ma",
+				"main.py"
+			],
+			[
+				"cos",
+				"docs/results/cosine_scores.txt"
+			],
+			[
+				"index",
+				"cms1/model/index.py"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"inx",
+				"app/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
